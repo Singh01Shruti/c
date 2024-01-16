@@ -1,0 +1,53 @@
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.red{
+    background-color: red;
+    padding: 15px;
+    border-radius: 20%;
+    cursor: pointer;
+    margin-top: 680px;
+}
+
+.yellow{
+    background-color: yellow;
+    padding: 15px;
+    border-radius: 20%;
+    margin-top: 680px;
+    cursor: pointer;
+}
+
+.blue{
+    background-color: blue;
+    padding: 15px;
+    border-radius: 20%;
+    margin-top: 680px;
+    cursor: pointer;
+}
+
+.purple{
+    background-color: purple;
+    padding: 15px;
+    border-radius: 20%;
+    margin-top: 680px;
+    cursor: pointer;
+}
+
+.pink{
+    background-color: pink;
+    padding: 15px;
+    border-radius: 20%;
+    margin-top: 680px;
+    cursor: pointer;
+}
+
+.orange{
+    background-color: orange;
+    padding: 15px;
+    border-radius: 20%;
+    margin-top: 680px;
+    cursor: pointer;
+}
