@@ -1,0 +1,17 @@
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.main-section{
+    text-align: center;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 680px;
+    margin-top: 300px;
+}
+
